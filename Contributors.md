@@ -461,7 +461,7 @@ Tomoya Okuno, motonuko<br/>
 2311294 - rfLENtlr <br/>
 2311188 - Nagae Marimo <br/>
 2311091 - Ayuki Katayama <br/>
-2311182 - Tokunaga  Rin <br/>
+2311182 - Tokunaga Rin <br/>
 2411299 - Yamada Junya <br/>
 2311182 - Tokunaga Rin <br/>
 2311325 - Marin Mikami <br/>
@@ -477,6 +477,7 @@ Tomoya Okuno, motonuko<br/>
 2411129 - Keisuke Sato <br/>
 2411189 - Takumi Tsurugai <br/>
 2411130 - Takuma Sato <br/>
+2411272 - Shota Miyagawa <br/>
 2411111 - Sosui Koga <br/>
 2411299 - Hisashi Yashima <br/>
 2411218 - Daisuke Narita <br/>
