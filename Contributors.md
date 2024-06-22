@@ -464,6 +464,7 @@ Tomoya Okuno, motonuko<br/>
 2311091 - Ayuki Katayama <br/>
 2311182 - Tokunaga  Rin <br/>
 2411299 - Yamada Junya <br/>
+2411110 - Riku Koizumi <bt/>
 2311182 - Tokunaga Rin <br/>
 2311325 - Marin Mikami <br/>
 2411311 - Haruto Wakayama <br/>
