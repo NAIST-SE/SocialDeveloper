@@ -95,6 +95,7 @@ studentID - username <br/>
 2111025<br/>
 2011017 - Tattiya Sakulniwat<br/>
 2011418 - Purit Phanudom<br/>
+2411305 - Haruhiko Yoshioka<br/>
 2011017 - Ikegami Ayano<br/>
 2011425 - Xiao Tao<br/>
 2011017 - Ikegami Ayano<br/>
@@ -363,6 +364,7 @@ studentID - username <br/>
 2211087<br />
 2111432
 2211210 - Nakamura Tsubasa<br/>
+2211418 - Cargill Dujohn SEIVERIGHT
 2211241 - Yuta Hamada<br/>
 2111417 - Hong Ruixun
 2211218
@@ -388,6 +390,7 @@ studentID - username <br/>
 2111440 - Xuzhe<br/>
 2311116 - Sakiho Kuriu<br/>
 2311225 - Junko Hayashi
+2411335 - Alcantara Tacora Sandro Manuel <br/>
 2311097 - Yuya Kawabata <br/>
 2111420 - Kang Xingyuan(KKKKKXY) <br/>
 2211422 - Zheyuan Wei <br/>
@@ -428,6 +431,7 @@ Minoru Ishihara - MinoruIshihara
 2311330 - Habiba Hesham Mohamed AbdelAziz <br/>
 2311338 - LI KAIFAN <br/>
 2311161 - takezaki sibuki <br/>
+2311425 - Shahzadi Anam <br/>
 2211404 - Yuki Morimoto <br/>
 2311054 - Shoichiro uchida <br/>
 2311224 - Kazuki Hayashi <br/>
@@ -465,6 +469,7 @@ Tomoya Okuno, motonuko<br/>
 2211420 - Tongiam Pacharawan <br/>
 2311061 - Rikito Endo <br/>
 2311079 - Kaito Ozawa <br />
+2411232 - Kohei Hayashi<br/>
 2311016 - Daiki Andou <br/>
 2311084 - Ryu Kakiuchi <br/>
 2311294 - rfLENtlr <br/>
@@ -474,6 +479,7 @@ Tomoya Okuno, motonuko<br/>
 2411299 - Yamada Junya <br/>
 2311182 - Tokunaga Rin <br/>
 2311325 - Marin Mikami <br/>
+2411291 - Yanagi Ryuya <br/>
 2411311 - Haruto Wakayama <br/>
 2411276 - Anju Miyamoto <br/>
 2411311 - Haruto Wakayama <br/>
@@ -490,10 +496,23 @@ Tomoya Okuno, motonuko<br/>
 2411129 - Keisuke Sato <br/>
 2411189 - Takumi Tsurugai <br/>
 2411130 - Takuma Sato <br/>
+2411111 - Sosui Koga <br/>
+2411286 - Kiyotada Mori <br>
+2411176 - Tamaki Taiyo <br/>
 2411272 - Shota Miyagawa <br/>
 2411111 - Sosui Koga <br/>
 2411299 - Hisashi Yashima <br/>
 2411218 - Daisuke Narita <br/>
+2311423 - P.K Ashmari Pramodya </br>
+2311030 - Yuki Ichihara <br/>
+2411119 - Shusuke Komatsu <br/>
+2411173 - Hidetake Tanaka <br/>
+2311408 - Choonhaklai Papon , Canppchk <br/>
+2411211 - Ibuki Nakamura <br/>
+2411294 - Kazuma Yamasaki <br/>
+2411214 - Kazuki Nagayama <br/>
+2411112 - Shuhei Kosaka <br/>
+2411014 - Atsuya Ikeno <br/>
 2411045 - Atsushi Ohta <br/>
 2411310 - Kotomi Wakayama <br/>
 2411229 - Shun Hattori <br/>
