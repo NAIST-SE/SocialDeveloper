@@ -577,6 +577,7 @@ Tomoya Okuno, motonuko<br/>
 2311424 - Rahman Md Mustafizur <br/>
 2411255 - Kosei Horikawa <br/>
 2311416 - Zhongxue Liu <br/>
+2511110 - Ryunosuke Koshima </br>
 2411076 - riku kato
 2511110 - Ryunosuke Koshima
 2411238 - Momoka Hirose <br/>
@@ -584,4 +585,4 @@ Tomoya Okuno, motonuko<br/>
 2411110 - Riku Koizumi </br>
 2311406 - Rownak - 3207-Rhims </br>
 2311428 - Syafrudin Rais Akhdan(neozoxix) </br>
-2511110 - Ryunosuke Koshima </br>
+
