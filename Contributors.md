@@ -31,6 +31,7 @@ studentID - username <br/>
 2211421 - Wang Zihang<br/>
 25122098 - Andres Mohali <br/>
 2311070 - Yuto Ohashi <br/>
+2511089 - Yuto Kitamura <br/>
 2311250 - Taichi Maeda
 2311020 - Riku Ikeuchi <br/>
 2311038 - Takuya Imasawa <br/>
