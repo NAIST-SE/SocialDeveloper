@@ -139,6 +139,7 @@ studentID - username <br/>
 2311329 - GOURINE Sanaa Amina<br/>
 2011017 - Tattiya Sakulniwat<br/>
 2011418 - Purit Phanudom<br/>
+2511245 - Aozora Higashi<br/>
 2411305 - Haruhiko Yoshioka<br/>
 2011017 - Ikegami Ayano<br/>
 2011425 - Xiao Tao<br/>
@@ -613,6 +614,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2511227 - Yoshito Hagihara</br>
 2511118 - Akihiro Saeki</br>
 2511055 - Hikaru Okamoto </br>
+2511303 - Tatsuro Yamaguchi</br>
 2511235 - Tamaki Baba </br>
 2511336 - Zhidong Li </br>
 2511235 - Tamaki Baba </br>
@@ -659,6 +661,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2511012 - AriRyo</br>
 2511024	- Keitaro Ito </br>
 2511294 - Mori-Eish </br>
+2411416 - Liu Hanze <br/>
 2411427 - Suwanachote Nabhan (id:nabhan-au)<br/>
 2511357 - Hirotaka Monya　(id: catlover-bot) </br>
 2511358 - Hyeonkyeong Lee <br/>
@@ -680,3 +683,5 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2511085 - Gakuto Kita (id: PitaPitaPiPiPi) <br/>
 2511159 - Yosuke Sekiya <br/>
 2511083 - Shogo Kawasome - shogo314 </br>
+2511286 - KeitoMimuro <br/>
+2411803 - SAKAI Makoto - mako2sake
