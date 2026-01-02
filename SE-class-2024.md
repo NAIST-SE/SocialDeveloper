@@ -95,7 +95,7 @@ Yuya Ide, Yuya274 <br/>
 2411115 - Tsukasa Kojo <br/>
 2311415 - Sila Lertbanjongngam - polarbearpppp <br/>
 2311424 - Rahman Md Mustafizur, MustafizurRU <br/>
-2411255 - Kosei Horikawa <br/>, Mont9165 <br/>
+2411255 - Kosei Horikawa - Mont9165 <br/>
 2411050 - Hien Onaka <br/>
 2311416 - Zhongxue Liu(LikkaLiu) <br/>
 2411238 - Momoka Hirose <br/>
@@ -107,6 +107,6 @@ Yuya Ide, Yuya274 <br/>
 2411805 - Nakamura Yoshito - Yoshito0892N <br/>
 2311429 - Tuwaemuesa Thapakorn - thapakorn604 <br/> 
 2311406 - Rownak - 3207-Rhims <br/> 
-2311428 - Syafrudin Rais Akhdan(neozoxix) </br>
+2311428 - Syafrudin Rais Akhdan(neozoxix) <br/>
 2411299 - Yamada Junya <br/>
 2411013 - Ikeda Ryota(Ryota-keda) <br/>
