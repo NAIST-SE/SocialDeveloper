@@ -1,4 +1,4 @@
-ame: Pull Request Auto Merge
+name: Pull Request Auto Merge
 
 on:
   pull_request:
